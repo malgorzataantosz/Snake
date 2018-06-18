@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/snake.dir/main.cpp.o CMakeFiles/snake.dir/Snake.cpp.o CMakeFiles/snake.dir/Game.cpp.o CMakeFiles/snake.dir/Window.cpp.o CMakeFiles/snake.dir/Textbox.cpp.o CMakeFiles/snake.dir/Scene.cpp.o  -o snake /usr/lib/x86_64-linux-gnu/libsfml-graphics.so /usr/lib/x86_64-linux-gnu/libsfml-window.so /usr/lib/x86_64-linux-gnu/libsfml-system.so 

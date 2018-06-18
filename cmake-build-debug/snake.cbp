@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="snake"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\SFML\;CMake Files\..\..\..\..\usr\share\SFML\cmake\;CMake Files\..\..\..\..\usr\share\SFML\cmake\Modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/malgorzata/clion/snake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/malgorzata/clion/snake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/malgorzata/clion/snake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake">
+				<Option output="/home/malgorzata/clion/snake/cmake-build-debug/snake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/malgorzata/clion/snake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake/fast">
+				<Option output="/home/malgorzata/clion/snake/cmake-build-debug/snake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/malgorzata/clion/snake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/malgorzata/clion/snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/malgorzata/clion/snake/Game.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Game.h">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Scene.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Scene.h">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Snake.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Snake.h">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Textbox.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Textbox.h">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Window.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/Window.h">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/main.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/malgorzata/clion/snake/../../../../usr/share/SFML/cmake/Modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\share\SFML\cmake\Modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
